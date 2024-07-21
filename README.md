@@ -1,9 +1,8 @@
-# Calculator App
+# To-Do List App
 
-This is a simple calculator application that calculates the sample options for a given point and parameter values using the provided parameters and returns the results.
-A new Flutter project.
+This is a simple to-do list application that helps you manage tasks by adding, updating, and deleting them. It is a new Flutter project.
 
-# Technologies Used in the Calculator
+# Technologies Used
 
 - dart
 - flutter
